@@ -1,2 +1,2 @@
-source ~/pythonvim
+source ~/.pythonvim
 syntax on

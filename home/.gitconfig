@@ -1,0 +1,17 @@
+[user]
+	name = Florian Mayer
+	email = florian.mayer@bitsrc.org 
+[giggle]
+	main-window-maximized = true
+	main-window-geometry = 0x0+0+0
+	history-view-vpane-position = 385
+	file-view-vpane-position = 974
+	main-window-view = HistoryView
+[alias]
+	c = commit -v
+	ca = commit -av
+	p = push
+	pl = pull
+	ft = fetch
+	d = diff
+	s = status
