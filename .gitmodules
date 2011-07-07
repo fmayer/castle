@@ -1,3 +1,0 @@
-[submodule "home/emacs.d/vendor/coffee-mode"]
-	path = home/emacs.d/vendor/coffee-mode
-	url = git://github.com/defunkt/coffee-mode.git
