@@ -1,0 +1,7 @@
+# Software that needs rlwrap.
+alias mzscheme="rlwrap mzscheme"
+alias sbcl="rlwrap sbcl"
+alias clojure="rlwrap clojure"
+
+# Generic
+alias g='git'

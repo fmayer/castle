@@ -1,0 +1,2 @@
+source ~/pythonvim
+syntax on
