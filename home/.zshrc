@@ -15,13 +15,6 @@ bindkey -e
 # End of lines configured by zsh-newuser-install
 . ~/.profile # Load ~/.profile loading .aliases and .functions
 
-# Remap keys according to my keyboard.
-bindkey '\e[7~' beginning-of-line
-bindkey '\e[8~' end-of-line
-bindkey '\e[3~' delete-char
-bindkey '\e[5~' beginning-of-history
-bindkey '\e[6~' end-of-history 
-
 # Enable colours
 autoload colors
 colors
